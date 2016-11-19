@@ -7,7 +7,7 @@
     <table style="width: 50%;">
         <tr>
             <td>
-                Input Number
+                Insert Your Number:
             </td>
             <td>
                 <asp:TextBox ID="txtNumber" runat="server" AutoPostBack="True" OnTextChanged="btnConvert_Click"></asp:TextBox>
